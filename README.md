@@ -10,8 +10,8 @@ ___
 
 ## Instalation
 
-Docker image
+**Docker image**
 ```
-ghcr.io/vann-dev/wordpress:6.4.2
+docker pull ghcr.io/vann-dev/wordpress:6.4.2
 ```
 
